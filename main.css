@@ -21,9 +21,9 @@ body {
 }
 
 #rectangle{
-  width:100%;
+  width:75%;
   height:3px;
   background:#000000;
   top:10;
-  left:50;
+  left:30;
 }
